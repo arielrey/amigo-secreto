@@ -14,10 +14,8 @@ function agregarAmigo(){
     }
 }
 
-// Limpia el campo del nombre
+// limpia el campo del nombre
 function limpiarCampoNombre(){
     document.getElementById("amigo").value = "";
 }
-
-
 
