@@ -1,7 +1,18 @@
-<h1 style={{ textAlign: "center" }}>Su título aquí</h1>
+# Challenge Amigo Secreto
 
-## My Doc Section
+![Preview of the project](/assets/amigo-secreto.png)
 
-Hello world message with some **bold** text, some _italic_ text, and a [link](/).
+[![Alura Latam](https://img.shields.io/badge/alura%20-%20latam?style=plastic&color=blue)](https://www.aluracursos.com/)  
+![HTML Badge](https://img.shields.io/badge/html%20-%20html?style=plastic&color=red)  
+![JavaScript Badge](https://img.shields.io/badge/js%20-%20javascript?style=plastic&color=yellow)  
+![CSS Badge](https://img.shields.io/badge/css%20-%20css?style=plastic&color=purple)  
 
-![Static Badge](https://img.shields.io/badge/alura%20-%20latam?style=plastic&color=blue&cacheSeconds=https%3A%2F%2Fwww.aluracursos.com%2F&link=alura)
+---
+
+## Challenge from Alura
+
+Hello, this project is an [Alura](https://www.aluracursos.com/) **challenge**.
+
+### How does it work?
+- Insert your friends' names (be sure to add more than one).
+- Press the **"Sortear amigo secreto"** button and the system will choose a random name.
