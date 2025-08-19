@@ -10,7 +10,8 @@ function agregarAmigo(){
     }else{
         amigos.push(amigo);
         limpiarCampoNombre();
-        console.log(amigos);
+        mostrarAmigos();
+        console.log(amigos);//BORRAR
     }
 }
 
@@ -18,4 +19,16 @@ function agregarAmigo(){
 function limpiarCampoNombre(){
     document.getElementById("amigo").value = "";
 }
+
+// Crea elemento <li> en <ul> y muestra la lista de los nombres
+function mostrarAmigos(){
+    let lista = document.getElementById("listaAmigos");
+    lista.innerHTML = "";
+    for (let i = 0; i < amigos.length; i++){
+        let elementoLi = document.createElement("li");
+        elementoLi.textContent = amigos[i];
+        lista.appendChild(elementoLi);
+    }
+}
+
 
