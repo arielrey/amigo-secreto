@@ -1,11 +1,8 @@
 # Challenge Amigo Secreto
 
-![Preview of the project](/assets/amigo-secreto.png)
+![Imagen amigo](/assets/amigo-secreto.png)
 
-[![Alura Latam](https://img.shields.io/badge/alura%20-%20latam?style=plastic&color=blue)](https://www.aluracursos.com/)  
-![HTML Badge](https://img.shields.io/badge/html%20-%20html?style=plastic&color=red)  
-![JavaScript Badge](https://img.shields.io/badge/js%20-%20javascript?style=plastic&color=yellow)  
-![CSS Badge](https://img.shields.io/badge/css%20-%20css?style=plastic&color=purple)  
+[![Alura Latam](https://img.shields.io/badge/alura%20-%20latam?style=plastic&color=blue)](https://www.aluracursos.com/)  ![HTML Badge](https://img.shields.io/badge/html%20-%20html?style=plastic&color=red)  ![JavaScript Badge](https://img.shields.io/badge/js%20-%20javascript?style=plastic&color=yellow)  ![CSS Badge](https://img.shields.io/badge/css%20-%20css?style=plastic&color=purple)  
 
 ---
 
