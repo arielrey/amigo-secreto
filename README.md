@@ -20,3 +20,6 @@ Imagine you're in a group and decide to create funny challenges, like:
 ## How does it work?
 - Insert your friends' names (be sure to add more than one).
 - Press the **"Sortear amigo secreto"** button and the system will choose a random name.
+- Last step, but very important: enjoy it!😁
+
+![Gif friends](/assets/giffriends.gif)
