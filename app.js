@@ -11,7 +11,6 @@ function agregarAmigo(){
         amigos.push(amigo);
         limpiarCampoNombre();
         mostrarAmigos();
-        console.log(amigos);//BORRAR
     }
 }
 
@@ -31,4 +30,14 @@ function mostrarAmigos(){
     }
 }
 
+// Sortea un nombre de la lista "amigos"
+function sortearAmigo(){
+    if (amigos.length === 0 ){
+        alert("Debe ingresar nombres para poder sortear");
+    } else {
+        let indiceSorteado = Math.floor(Math.random()*amigos.length);
+        let nombreSorteado = amigos[indiceSorteado];
+        document.getElementById("resultado").innerHTML = `🎉 ¡Felicidades! ¡${nombreSorteado}, ha ganado el sorteo! 🥳`;
 
+    }
+}
